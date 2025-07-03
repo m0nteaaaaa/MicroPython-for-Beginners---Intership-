@@ -1,4 +1,4 @@
-# MicroPython-for-Beginners---Intership
+# MicroPython-for-Beginners-Intership
 Here is a professional and complete `README.md` file for your GitHub repository based on the course **"MicroPython for Beginners"** by NIELIT Calicut:
 
 ---
